@@ -1,0 +1,31 @@
+---
+ripple:
+  watch:
+  - 59
+  - 80
+  timer: 10
+bitcoin-cash:
+  watch:
+  - 36363.64
+  - 44000
+  timer: 15
+the-graph:
+  watch:
+  - 45
+  - 90
+  timer: 300
+litecoin:
+  watch:
+  - 10000
+  - 12100
+  timer: 15
+uniswap:
+  watch:
+  - 45
+  - 90
+  timer: 300
+enjincoin:
+  watch:
+  - 92.56999999999999
+  - 108.85
+  timer: 300
