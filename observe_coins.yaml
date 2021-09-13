@@ -1,0 +1,23 @@
+---
+ripple:
+  watch:
+  - - 59
+    - 80
+  - - 63.63
+    - 77
+  timer: 60
+bitcoin-cash:
+  watch:
+  - - 36363.64
+    - 44000
+  timer: 65
+litecoin:
+  watch:
+  - - 10000
+    - 12100
+  timer: 75
+chainlink:
+  watch:
+  - - 1657
+    - 1507
+  timer: 60
